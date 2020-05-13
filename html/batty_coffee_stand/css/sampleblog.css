@@ -1,0 +1,45 @@
+.main-tittle {
+    text-align: center;
+}
+
+.table-of-contents li {
+    list-style-type: none;
+    
+}
+
+.table-of-contents:after {
+    clear: both;
+    display: block;
+    content: " ";
+}
+
+.table-of-contents li {
+    float: left;
+    padding-right: 20px;
+    color: white;
+    line-height: 40px;
+}
+
+.table-of-contents {
+    width: 100%;
+    height: 40px;
+    background-color: black;
+
+}
+
+.staff-image {
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+
+.blog-contents {
+    overflow: hidden;
+}
+
+.blog-details {
+    overflow: hidden;
+}
+
+
+
